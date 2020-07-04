@@ -56,7 +56,6 @@
   * design login page which will be the index page
   * check wether you have cookies if its present then validate then only go to to do page of perticular person
 
-
 ---------------
 
 ✔︎ Move app.js and handlers.js to library directory.
